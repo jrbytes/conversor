@@ -1,4 +1,4 @@
-import 'package:conversor_curso/app/models/currency_model.dart';
+import 'package:conversor_flutter/app/models/currency_model.dart';
 import 'package:flutter/material.dart';
 
 class CurrencyBox extends StatelessWidget {

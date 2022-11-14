@@ -1,5 +1,5 @@
-import 'package:conversor_curso/app/components/currency_box.dart';
-import 'package:conversor_curso/app/controllers/home_controller.dart';
+import 'package:conversor_flutter/app/components/currency_box.dart';
+import 'package:conversor_flutter/app/controllers/home_controller.dart';
 import 'package:flutter/material.dart';
 
 class HomeView extends StatefulWidget {

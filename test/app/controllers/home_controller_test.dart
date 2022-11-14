@@ -1,4 +1,4 @@
-import 'package:conversor_curso/app/controllers/home_controller.dart';
+import 'package:conversor_flutter/app/controllers/home_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
